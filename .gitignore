@@ -97,3 +97,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+jsLibraryMappings.xml
+.idea
+src/__snapshots__
